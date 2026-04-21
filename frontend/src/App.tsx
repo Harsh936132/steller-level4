@@ -11,8 +11,8 @@ function App() {
     try {
       setIsConnecting(true);
       await setAllowed();
-      const pubKey = await requestAccess();
-      setAddress(pubKey);
+      const result = await requestAccess() as { address: string };
+      setAddress(result.address);
     } catch (e) {
       console.error(e);
       alert('Failed to connect with Freighter');
