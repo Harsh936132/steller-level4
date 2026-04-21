@@ -3,15 +3,14 @@
 This project fulfills the Level 4 requirements for the Stellar Smart Contract implementation.
 
 ## Live Demo
-[Live Demo on Vercel](https://stellar-level-4-demo.vercel.app)
+[Live Demo on Vercel](https://steller-level-4.vercel.app) *(Note: Please update this link after your actual Vercel deployment)*
 
 ## CI/CD Pipeline
-[![Stellar CI/CD](https://github.com/username/repo/actions/workflows/ci.yml/badge.svg)](https://github.com/username/repo/actions)
+[![Stellar CI/CD](https://github.com/Harsh936132/steller-level4/actions/workflows/ci.yml/badge.svg)](https://github.com/Harsh936132/steller-level4/actions)
 
 ## Screenshots
 **Mobile Responsive View:**
 <br>
-*(Replace this with actual screenshot)*
 ![Mobile Responsive View](./screenshot-mobile.png)
 
 ## Contract Information
